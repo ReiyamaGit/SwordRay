@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EB4D5A3D-432A-4E0C-6D62-EE85C6B65FEA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SwordRay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
