@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+/Content/Map/Stage01/*.uasset
 .vscode
 .vs
 *.VC.db
