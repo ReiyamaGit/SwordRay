@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{EB4D5A3D-432A-4E0C-6D62-EE85C6B65FEA}",
+	"EngineAssociation": "UE4.24.2-build",
 	"Category": "",
 	"Description": "",
 	"Modules": [
